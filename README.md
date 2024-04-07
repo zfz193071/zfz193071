@@ -74,7 +74,7 @@ Now, I live in Wuhan, China. I never stop learning, as an old saying goes:"Life 
 - [How to traverse every attributes in HTMLCollection and output the array](https://blog.csdn.net/zwf193071/article/details/108273870)
 - [How to debug go in VSCODE](https://blog.csdn.net/zwf193071/article/details/108198244)
 
-[view nore](https://blog.csdn.net/zwf193071)
+[view more](https://blog.csdn.net/zwf193071)
 
 </td>
 </tr></table>
