@@ -1,4 +1,4 @@
- ### Hi there, I'm Emma Zhu 👋
+ ### Hi there, I'm Lucy Zhu 👋
 
 I have been worked as a web frontend engineer for almost 13 years.
 
